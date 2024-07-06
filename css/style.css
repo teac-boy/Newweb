@@ -17,7 +17,7 @@ a {
 }
 
 .bg-custom {
-    background: center center no-repeat url(/01.png);
+    background: center center no-repeat url(https://m.havellswealth.com/images/bannet/01.png);
     background-size: cover;
     /* Ensure the background image covers the container */
     height: 500px;
